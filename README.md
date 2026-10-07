@@ -1,2 +1,2 @@
 # superping
-A simple yet powerfull ping trick. Sysadmin knows what i mean.
+A simple yet powerfull ping trick. Sysadmins knows what i mean.
